@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_1\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|solutionrelative:proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_1\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|solutionrelative:flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_1\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|solutionrelative:adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_1\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|solutionrelative:bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_1\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|solutionrelative:composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_1\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|solutionrelative:decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_1\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34F8C9-4074-414A-B5CC-8BD4EF28C87E}|hw_2_1.csproj|solutionrelative:facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Proxy.cs",
+              "RelativeDocumentMoniker": "Proxy.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Proxy.cs",
+              "RelativeToolTip": "Proxy.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T22:12:54.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flyweight.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Flyweight.cs",
+              "RelativeDocumentMoniker": "Flyweight.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Flyweight.cs",
+              "RelativeToolTip": "Flyweight.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T22:05:18.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Facade.cs",
+              "RelativeDocumentMoniker": "Facade.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Facade.cs",
+              "RelativeToolTip": "Facade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T22:01:30.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Decorator.cs",
+              "RelativeDocumentMoniker": "Decorator.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Decorator.cs",
+              "RelativeToolTip": "Decorator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvy4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:42:43.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Composite.cs",
+              "RelativeDocumentMoniker": "Composite.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Composite.cs",
+              "RelativeToolTip": "Composite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:36:37.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bridge.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Bridge.cs",
+              "RelativeDocumentMoniker": "Bridge.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Bridge.cs",
+              "RelativeToolTip": "Bridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:27:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Adapter.cs",
+              "RelativeDocumentMoniker": "Adapter.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Adapter.cs",
+              "RelativeToolTip": "Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:20:51.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T21:20:08.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
