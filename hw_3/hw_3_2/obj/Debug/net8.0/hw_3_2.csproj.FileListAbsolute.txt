@@ -1,0 +1,15 @@
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.AssemblyInfoInputs.cache
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.AssemblyInfo.cs
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.sourcelink.json
+C:\Users\masha\source\patterns\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.exe
+C:\Users\masha\source\patterns\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.deps.json
+C:\Users\masha\source\patterns\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.runtimeconfig.json
+C:\Users\masha\source\patterns\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.dll
+C:\Users\masha\source\patterns\hw_3\hw_3_2\bin\Debug\net8.0\hw_3_2.pdb
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.dll
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\refint\hw_3_2.dll
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.pdb
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\hw_3_2.genruntimeconfig.cache
+C:\Users\masha\source\patterns\hw_3\hw_3_2\obj\Debug\net8.0\ref\hw_3_2.dll

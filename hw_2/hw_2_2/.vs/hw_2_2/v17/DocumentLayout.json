@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{93CCD788-59E4-4CD1-B7DB-98637AD5FB30}|hw_2_2.csproj|solutionrelative:apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{93CCD788-59E4-4CD1-B7DB-98637AD5FB30}|hw_2_2.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_2\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CCD788-59E4-4CD1-B7DB-98637AD5FB30}|hw_2_2.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93CCD788-59E4-4CD1-B7DB-98637AD5FB30}|hw_2_2.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_2\\someentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93CCD788-59E4-4CD1-B7DB-98637AD5FB30}|hw_2_2.csproj|solutionrelative:someentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93CCD788-59E4-4CD1-B7DB-98637AD5FB30}|hw_2_2.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_2\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93CCD788-59E4-4CD1-B7DB-98637AD5FB30}|hw_2_2.csproj|solutionrelative:storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93CCD788-59E4-4CD1-B7DB-98637AD5FB30}|hw_2_2.csproj|c:\\users\\masha\\source\\patterns\\hw_2\\hw_2_2\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93CCD788-59E4-4CD1-B7DB-98637AD5FB30}|hw_2_2.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,40 +36,40 @@
               "RelativeDocumentMoniker": "ApiClient.cs",
               "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_2\\ApiClient.cs",
               "RelativeToolTip": "ApiClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T21:21:01.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_2\\Controller.cs",
               "RelativeDocumentMoniker": "Controller.cs",
               "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_2\\Controller.cs",
               "RelativeToolTip": "Controller.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAIwHkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T21:18:32.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Storage.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_2\\Storage.cs",
               "RelativeDocumentMoniker": "Storage.cs",
               "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_2\\Storage.cs",
               "RelativeToolTip": "Storage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T21:17:08.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SomeEntity.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_2\\hw_2_2\\SomeEntity.cs",
               "RelativeDocumentMoniker": "SomeEntity.cs",

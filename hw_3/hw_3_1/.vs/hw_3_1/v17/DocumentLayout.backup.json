@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_1\\volumevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|solutionrelative:volumevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_1\\hw_3_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|solutionrelative:hw_3_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_1\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|solutionrelative:interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_1\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|solutionrelative:cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_1\\torus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|solutionrelative:torus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_1\\parallelepiped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|solutionrelative:parallelepiped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_1\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D3DBF2-7574-4F7C-B6EF-2D4D0C704919}|hw_3_1.csproj|solutionrelative:sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:46:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VolumeVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\VolumeVisitor.cs",
+              "RelativeDocumentMoniker": "VolumeVisitor.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\VolumeVisitor.cs*",
+              "RelativeToolTip": "VolumeVisitor.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:45:18.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Cube.cs",
+              "RelativeDocumentMoniker": "Cube.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Cube.cs*",
+              "RelativeToolTip": "Cube.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:44:05.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Torus.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Torus.cs",
+              "RelativeDocumentMoniker": "Torus.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Torus.cs*",
+              "RelativeToolTip": "Torus.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:43:07.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Parallelepiped.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Parallelepiped.cs",
+              "RelativeDocumentMoniker": "Parallelepiped.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Parallelepiped.cs*",
+              "RelativeToolTip": "Parallelepiped.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:42:23.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hw_3_1",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\hw_3_1.csproj",
+              "RelativeDocumentMoniker": "hw_3_1.csproj",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\hw_3_1.csproj",
+              "RelativeToolTip": "hw_3_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T13:40:55.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sphere.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Sphere.cs",
+              "RelativeDocumentMoniker": "Sphere.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Sphere.cs*",
+              "RelativeToolTip": "Sphere.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:41:05.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Interface.cs",
+              "RelativeDocumentMoniker": "Interface.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_1\\Interface.cs*",
+              "RelativeToolTip": "Interface.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:40:14.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
