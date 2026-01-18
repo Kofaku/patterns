@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\hw_1_2.csproj",
-      "projectName": "hw_1_2",
-      "projectPath": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\hw_1_2.csproj",
+      "projectUniqueName": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\hw_3_3.csproj",
+      "projectName": "hw_3_3",
+      "projectPath": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\hw_3_3.csproj",
       "packagesPath": "C:\\Users\\masha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\obj\\",
+      "outputPath": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

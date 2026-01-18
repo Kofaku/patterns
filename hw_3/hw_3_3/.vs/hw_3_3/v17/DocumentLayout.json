@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_3\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|solutionrelative:container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_3\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_3\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|solutionrelative:tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_3\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|solutionrelative:cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_3\\changedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|solutionrelative:changedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|c:\\users\\masha\\source\\patterns\\hw_3\\hw_3_3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F6C697-96D9-4250-89AE-A3B182CACEE4}|hw_3_3.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Container.cs",
+              "RelativeDocumentMoniker": "Container.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Container.cs",
+              "RelativeToolTip": "Container.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:29:32.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Tank.cs",
+              "RelativeDocumentMoniker": "Tank.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Tank.cs",
+              "RelativeToolTip": "Tank.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:28:39.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Cargo.cs",
+              "RelativeDocumentMoniker": "Cargo.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Cargo.cs",
+              "RelativeToolTip": "Cargo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:27:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:26:43.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\ChangedEvent.cs",
+              "RelativeDocumentMoniker": "ChangedEvent.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\ChangedEvent.cs",
+              "RelativeToolTip": "ChangedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:25:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:21:42.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_3\\hw_3_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T19:37:18.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
