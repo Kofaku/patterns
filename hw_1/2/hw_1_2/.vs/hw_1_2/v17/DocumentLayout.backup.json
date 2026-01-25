@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\factories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:factories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +19,20 @@
       "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\factories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:factories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\transports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:transports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\tanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:tanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|c:\\users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\tanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F90A33F-2202-4508-94B8-D355C7899BA6}|hw_1_2.csproj|solutionrelative:tanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,37 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Storage.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Storage.cs",
               "RelativeDocumentMoniker": "Storage.cs",
               "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Storage.cs",
               "RelativeToolTip": "Storage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T10:55:20.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Factories.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Factories.cs",
               "RelativeDocumentMoniker": "Factories.cs",
               "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Factories.cs",
               "RelativeToolTip": "Factories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T10:54:38.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Tanks.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Tanks.cs",
               "RelativeDocumentMoniker": "Tanks.cs",
@@ -91,20 +91,20 @@
               "RelativeDocumentMoniker": "Cargos.cs",
               "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Cargos.cs",
               "RelativeToolTip": "Cargos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T10:53:10.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Vehicles.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Vehicles.cs",
               "RelativeDocumentMoniker": "Vehicles.cs",
               "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Vehicles.cs",
               "RelativeToolTip": "Vehicles.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T10:52:22.253Z",
               "EditorCaption": ""
@@ -117,7 +117,7 @@
               "RelativeDocumentMoniker": "Transports.cs",
               "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Transports.cs",
               "RelativeToolTip": "Transports.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T10:50:59.692Z",
               "EditorCaption": ""
@@ -137,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\masha\\source\\patterns\\hw_1\\2\\hw_1_2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T10:17:48.597Z",
               "EditorCaption": ""
